@@ -325,3 +325,25 @@ Agenda Aula07:
 - Além da persistência em banco de dados, também realizaremos todas as consultas em banco de dados.
 
 ==================================================================================================================
+
+Agenda Aula08:
+
+  - Incluir no projeto anterior uma autenticação básica.
+
+  - Conhecer a extensão flask-httpauth.
+
+  - Inserir autenticação através de usuários registrados em hard code no código.
+
+  - Inserir autenticação através de tabela de usuário no banco de dados.
+
+==================================================================================================================
+
+Flask-HTTPAUTH:
+
+  - É uma extensão para o framework Flask que simplifica o uso de autenticação.
+
+  - Com o flask-httpauth além da implementação da autenticação ser mais simples,
+    também é possível realizar diferentes tipos de autenticação, di tuoi básico com usuário
+    e senha, até com token.
+
+  - https://flask-httpauth.readthedocs.io/en/latest

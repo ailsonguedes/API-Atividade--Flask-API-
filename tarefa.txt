@@ -1,4 +1,4 @@
-Exercício Para Práticar:
+Exercício Para Práticar 06:
 
     - Em um novo diretório crie um banco de dados com três tabelas.
     Tabela Programador, tabela Habilidade e uma terceira tabela que ligue o programador com a habilidade,
@@ -11,3 +11,21 @@ Exercício Para Práticar:
     - A tabela programador_habilidade deve conter os campos id,
     programador (FK com programador) e habilidade (FK com habilidades )
      FK = ForeignKey
+
+===================================================================================
+
+Exercício Para Práticar 07:
+
+    - No mesmo projeto da aula, incluir para modelagem Atividades, uma API para retornar todas as atividades
+      pelo nome da pessoa responsável.
+    
+    - Incluir na modelagem de atividade um campo status, que deverá receber pendente ou concluído.
+
+    - Criar uma API que através do ID da atividade permita consulta e alterar apenas o status da atividade.
+
+    - Acrescentar uma tratativa de exceção em todos os métodos para enviar uma mensagem tratada caso o registro informado
+      não exista.
+
+===================================================================================
+
+
