@@ -316,3 +316,12 @@ SQLite:
 
 ==================================================================================================================
 
+Agenda Aula07:
+
+- Incluir no projeto anterior um app Flask
+
+- Elaborar as API para persistência em banco de dados com SQLAlchemy
+
+- Além da persistência em banco de dados, também realizaremos todas as consultas em banco de dados.
+
+==================================================================================================================
